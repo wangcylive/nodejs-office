@@ -1,0 +1,10 @@
+.*
+!.gitignore
+!.yarnrc
+/node_modules
+
+*.xlsx
+*.docx
+*.jpg
+*.jpeg
+*.png
